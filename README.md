@@ -1,30 +1,26 @@
 
 ## Date: 19-09-2026
-
 **Today's Work:**
-
-* Completed Week 6 OOP class/practice problems.
-* Implemented Student Placement Record Management.
-* Implemented Hostel Mess Wallet Management using encapsulation.
-* Implemented Course Credit Management using constructor overloading and `this()`.
-* Implemented Library ID Card Management using object references and `==`.
-* Implemented Student and College Information Management using static fields and methods.
-* Completed Week 6 OOP assignment problems.
-* Implemented Library Inventory Management.
-* Implemented Payroll Salary Management using encapsulation.
-* Implemented Employee Profile Creation using constructor overloading and `this()`.
-* Implemented Exam Hall Ticket Reference Management using object references and `==`.
-* Implemented Employee and Company Information Management using static fields and methods.
-* Tested all 10 programs successfully.
-* Committed and pushed the Week 6 work to `feature/session_6`.
+- Completed Week 7 OOP practice problems.
+- Implemented Piggy Bank using encapsulation and final fields.
+- Implemented Quiz Scorecard using a private array.
+- Implemented Nickname Tag as an immutable class.
+- Implemented Locker Code using controlled access.
+- Implemented Attendance Sheet using a private array and duplicate checking.
+- Completed Week 7 Category C assignment problems.
+- Implemented Health Bar with health boundary checking.
+- Implemented Playlist using a defensive copy of the private array.
+- Implemented Password Checker using private final password storage.
+- Implemented Traffic Light with controlled state changes.
+- Implemented Shopping Cart using a private array and computed total.
+- Tested all 10 programs successfully.
+- Committed and pushed the Week 7 work to `feature/session_7`.
 
 **Next Session Plan:**
-
-* Continue with the next session's problems.
-* Practice and implement the assigned concepts.
+- Continue with the next session's problems.
+- Practice and implement the assigned concepts.
 
 **Issues Faced:**
-
-* None.
+- None.
 
 ---
